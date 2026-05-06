@@ -63,7 +63,7 @@ The solution focuses on **geospatial feature engineering + model stability**, ra
 
 | Metric | Score |
 |------|------|
-| Public Leaderboard | 🥇 Rank 1 |
+| Public Leaderboard |  Rank 1 |
 | Private Leaderboard | Rank 13 |
 
 ---
@@ -95,8 +95,7 @@ GeoHab-2026-MLWG-Competition/
 │
 ├── Experiments/      # All experimentation notebooks
 ├── Submissions/      # Final submissions & predictions
-├── notebooks/        # Core modeling notebooks
-├── src/              # (optional) modular code
+├── EDA/       
 └── README.md
 ```
 
